@@ -4,6 +4,8 @@
 # SPDX-License-Identifier: GPL-2.0-or-later
 #
 
+
+
 ARG OS_VERSION="latest"
 ARG COPR_REPO="@pki/master"
 
